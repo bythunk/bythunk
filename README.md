@@ -2,7 +2,7 @@
 
 <img src="thunk-symbol-ondark.svg" width="120" alt="Thunk">
 
-# thunk
+# Thunk
 
 **Independent studio building native Apple software with on-device AI.**
 
