@@ -6,7 +6,7 @@
 
 **Independent studio building native Apple software with on-device AI.**
 
-[Website](https://thunk.dev) · [X](https://x.com/bythunk) · [YouTube](https://www.youtube.com/@ByThunk) · [Instagram](https://www.instagram.com/bythunk/)
+[Website](https://thunk-alpha.vercel.app/es) · [X](https://x.com/bythunk) · [YouTube](https://www.youtube.com/@ByThunk) · [Instagram](https://www.instagram.com/bythunk/)
 
 </div>
 
